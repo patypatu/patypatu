@@ -18,4 +18,4 @@
 
 ##
 
- ![Snake animation](https://github.com/patypaty/patypatu/)
+![snake gif](https://github.com/patypatu/patypatu/blob/output/github-contribution-grid-snake.gif)
