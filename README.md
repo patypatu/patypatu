@@ -1,6 +1,7 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=26&duration=4000&pause=800&center=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Patricia+Saavedra+%F0%9F%98%8A" alt="Typing SVG" /></a>
 </h1>
+
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="center">
     <a href="https://www.linkedin.com/in/patricia-saavedra-benavente/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
