@@ -9,9 +9,9 @@
   </p>
 
 ### 👨🏻‍💻 &nbsp;About Me
-🎓 &nbsp; I'm currently studying as a Computational Programmer Analyst at Duoc Uc Viña del Mar.
-💡  &nbsp; My interest is focused on software development, specifically in Front-end, UX and UI.
-🌱 &nbsp; In my free time I like to play videogames and read books of differents genres.
+-🎓 &nbsp; I'm currently studying as a Computational Programmer Analyst at Duoc Uc Viña del Mar.
+-💡  &nbsp; My interest is focused on software development, specifically in Front-end, UX and UI.
+-🌱 &nbsp; In my free time I like to play videogames and read books of differents genres.
 
 ### 🛠 &nbsp;Knowledge / Notions
 
