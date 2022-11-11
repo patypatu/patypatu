@@ -18,4 +18,4 @@
 
 ##
 
- ![Snake animation](https://github.com/patypaty/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/patypaty/patypatu/blob/output/github-contribution-grid-snake.svg)
