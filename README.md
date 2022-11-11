@@ -34,4 +34,5 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
 <hr>
+
 ![Snake animation](https://github.com/patypatu/patypatu/blob/output/github-contribution-grid-snake.svg)
