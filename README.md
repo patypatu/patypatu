@@ -34,8 +34,8 @@
 ![AWS](https://img.shields.io/badge/AWS-05122A?style=flat&logo=amazon-aws&logoColor=orange)
 ![Azure](https://img.shields.io/badge/azure-05122A?style=flat&logo=microsoftazure&logoColor=blue)
 ![Oracle](https://img.shields.io/badge/Oracle-05122A?style=flat&logo=oracle&logoColor=red)
-![Docker](https://img.shields.io/badge/docker-05122A?style=flat&logo=docker&logoColor=white)&nbsp;
-![Kubernetes](https://img.shields.io/badge/kubernetes-05122A?style=flat&logo=kubernetes&logoColor=white)\
+![Docker](https://img.shields.io/badge/docker-05122A?style=flat&logo=docker&logoColor=0db7ed)&nbsp;
+![Kubernetes](https://img.shields.io/badge/kubernetes-05122A?style=flat&logo=kubernetes&logoColor=3970e4)\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
