@@ -9,6 +9,7 @@
     <a href="https://www.linkedin.com/in/patricia-saavedra-benavente/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=style=flat-squar&logo=linkedin&logoColor=white"/></a>
     <a href="https://www.instagram.com/paty.saavedra.b"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-squar&logo=instagram&logoColor=white"/></a>
    <a href="mailto:patr.saavedra.b@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-squar&logo=gmail&logoColor=white"/></a>
+  <a href="https://discord.com/users/690363809294188545"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-squar&logo=discord&logoColor=white"/></a>
   </p>
 <hr>
 
