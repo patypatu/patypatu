@@ -9,7 +9,7 @@
     <a href="https://www.linkedin.com/in/patricia-saavedra-benavente/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=style=flat-squar&logo=linkedin&logoColor=white"/></a>
     <a href="https://www.instagram.com/paty.saavedra.b"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-squar&logo=instagram&logoColor=white"/></a>
   </p>
-<br>
+<hr>
 
 ### 👨🏻‍💻 &nbsp;About Me
 <p>-🎓 I'm currently studying as a Computational Programmer Analyst at Duoc Uc Viña del Mar.</p>
