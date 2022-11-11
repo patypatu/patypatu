@@ -27,7 +27,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Ionic](https://img.shields.io/badge/Ionic-05122A?style=flat&logo=Ionic&logoColor=498AFF)
 ![Angular](https://img.shields.io/badge/Angular-05122A?style=flat&logo=angular&logoColor=c3002f)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+
 <hr>
 
 ### 🛠 &nbsp;Notions
