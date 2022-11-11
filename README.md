@@ -10,13 +10,12 @@
     <a href="https://www.instagram.com/paty.saavedra.b"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-squar&logo=instagram&logoColor=white"/></a>
   </p>
 <hr>
-
 ### 👨🏻‍💻 &nbsp;About Me
 <p>-🎓 I'm currently studying as a Computational Programmer Analyst at Duoc Uc Viña del Mar.</p>
 <p>-💬 I'm currently a coordinating counselor for Computer Programmer Analyst career.</p>
 <p>-💡  My interest is focused on software development, specifically in Front-end, UX and UI.</p>
 <p>-🌱 In my free time I like to play videogames and read books of differents genres.</p>
-
+<hr>
 ### 🛠 &nbsp;Knowledge / Notions
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
