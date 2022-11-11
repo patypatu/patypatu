@@ -31,9 +31,9 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Express.js](https://img.shields.io/badge/express.js-05122A?style=flat&logo=express)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)\
-![AWS](https://img.shields.io/badge/AWS-05122A?style=flat&logo=amazon-aws&logoColor=orange)
-![Azure](https://img.shields.io/badge/azure-05122A?style=flat&logo=microsoftazure&logoColor=blue)
-![Oracle](https://img.shields.io/badge/Oracle-05122A?style=flat&logo=oracle&logoColor=red)
+![AWS](https://img.shields.io/badge/AWS-05122A?style=flat&logo=amazon-aws&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/azure-05122A?style=flat&logo=microsoftazure&logoColor=007fff)
+![Oracle](https://img.shields.io/badge/Oracle-05122A?style=flat&logo=oracle&logoColor=C74634)
 ![Docker](https://img.shields.io/badge/docker-05122A?style=flat&logo=docker&logoColor=0db7ed)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/kubernetes-05122A?style=flat&logo=kubernetes&logoColor=3970e4)\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
