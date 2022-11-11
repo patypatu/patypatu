@@ -34,7 +34,6 @@
 ### 📚 &nbsp;Notions
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Express.js](https://img.shields.io/badge/Express.js-05122A?style=flat&logo=express)&nbsp;
