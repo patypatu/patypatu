@@ -26,17 +26,17 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Angular](https://img.shields.io/badge/angular-05122A?style=flat&logo=angular&logoColor=c3002f)&nbsp;
+![Angular](https://img.shields.io/badge/Angular-05122A?style=flat&logo=angular&logoColor=c3002f)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Express.js](https://img.shields.io/badge/express.js-05122A?style=flat&logo=express)&nbsp;
+![Express.js](https://img.shields.io/badge/Express.js-05122A?style=flat&logo=express)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)\
 ![AWS](https://img.shields.io/badge/AWS-05122A?style=flat&logo=amazon-aws&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/azure-05122A?style=flat&logo=microsoftazure&logoColor=007fff)
+![Azure](https://img.shields.io/badge/Azure-05122A?style=flat&logo=microsoftazure&logoColor=007fff)
 ![Oracle](https://img.shields.io/badge/Oracle-05122A?style=flat&logo=oracle&logoColor=C74634)
-![Docker](https://img.shields.io/badge/docker-05122A?style=flat&logo=docker&logoColor=0db7ed)&nbsp;
-![Kubernetes](https://img.shields.io/badge/kubernetes-05122A?style=flat&logo=kubernetes&logoColor=3970e4)\
+![Docker](https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker&logoColor=0db7ed)&nbsp;
+![Kubernetes](https://img.shields.io/badge/Kubernetes-05122A?style=flat&logo=kubernetes&logoColor=3970e4)\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=A4C639)
