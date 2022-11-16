@@ -48,8 +48,9 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=A4C639)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![Canva](https://img.shields.io/badge/Canva-05122A?style=flat&logo=Canva&logoColor=20C4CB)
-![Figma](https://img.shields.io/badge/figma-05122A?style=flat&logo=figma&logoColor=FF3B00)
+![Canva](https://img.shields.io/badge/Canva-05122A?style=flat&logo=Canva&logoColor=20C4CB)&nbsp;
+![Figma](https://img.shields.io/badge/figma-05122A?style=flat&logo=figma&logoColor=FF3B00)\
+![Udemy](https://img.shields.io/badge/Udemy-05122A?style=flat&logo=Udemy&logoColor=a435f0)
 
 <hr>
 
