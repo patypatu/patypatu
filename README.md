@@ -51,6 +51,7 @@
 ![Canva](https://img.shields.io/badge/Canva-05122A?style=flat&logo=Canva&logoColor=20C4CB)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-05122A?style=flat&logo=figma&logoColor=FF3B00)\
 ![Udemy](https://img.shields.io/badge/Udemy-05122A?style=flat&logo=Udemy&logoColor=a435f0)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-05122A?style=flat&logo=microsoft-excel&logoColor=1d6f42)
 
 <hr>
 
