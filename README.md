@@ -36,6 +36,7 @@
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Express.js](https://img.shields.io/badge/Express.js-05122A?style=flat&logo=express)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-05122A?style=flat&logo=postman&logoColor=EF5B25)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)\
 ![AWS](https://img.shields.io/badge/AWS-05122A?style=flat&logo=amazon-aws&logoColor=FF9900)
 ![Azure](https://img.shields.io/badge/Azure-05122A?style=flat&logo=microsoftazure&logoColor=007fff)
