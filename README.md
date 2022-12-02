@@ -16,7 +16,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 <p>-🎓 I'm currently studying as a Computational Programmer Analyst at Duoc Uc Viña del Mar.</p>
 <p>-💬 I'm currently a counselor for Computer Programmer Analyst career.</p>
-<p>-💡  My interest is focused on software development, specifically in Front-end, UX and UI.</p>
+<p>-💡  My interest is focused on software development, specifically in Front-end.</p>
 <p>-🌱 In my free time I like to play videogames and read books of differents genres.</p>
 <hr>
 
