@@ -23,11 +23,6 @@
 - 🌱 Always learning new technologies and best development practices.
 - 📚 I enjoy reading books, gaming and Japanese culture.
 
-
-<h3 align="center">
-Front-end Developer • 3+ Years of Experience • Angular • TypeScript • Node.js
-</h3>
-
 ---
 
 # 💼 Experience
