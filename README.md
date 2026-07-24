@@ -1,4 +1,4 @@
-<h1 align="center">
+<img width="950" height="835" alt="image" src="https://github.com/user-attachments/assets/57ea02b7-beac-4946-805c-dc5fce8baabd" /><h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=26&duration=4000&pause=800&center=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Patricia+Saavedra+%F0%9F%98%8A" alt="Typing SVG" /></a>
 </h1>
 
@@ -13,12 +13,14 @@
   </p>
 <hr>
 
-### 👨🏻‍💻 &nbsp;About Me
-<p>-🎓 I'm currently studying as a Computational Programmer Analyst at Duoc Uc Viña del Mar, Chile.</p>
-<p>-💬 I'm currently a counselor for Computer Programmer Analyst career.</p>
-<p>-💡  My interest is focused on software development, specifically in Front-end.</p>
-<p>-🌱 In my free time I like to play videogames and read books of differents genres.</p>
-<hr>
+## 💻 About Me
+
+- 💼 Front-end Developer with **3+ years of professional experience** building enterprise web applications.
+- 🚀 Specialized in **Angular** and **TypeScript**, with experience developing **Backend For Frontend (BFF)** services using **Node.js**.
+- ☁️ Microsoft Certified: Azure Fundamentals (AZ-900).
+- 🤖 GitHub Copilot Certified.
+- 🌱 Always learning new technologies and best development practices.
+- 📚 I enjoy reading books, gaming and Japanese culture.
 
 ### 🛠 &nbsp;Knowledge
 
