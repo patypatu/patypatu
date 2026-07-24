@@ -1,6 +1,3 @@
-<img width="950" height="835" alt="image" src="https://github.com/user-attachments/assets/57ea02b7-beac-4946-805c-dc5fce8baabd" /><h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=26&duration=4000&pause=800&center=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Patricia+Saavedra+%F0%9F%98%8A" alt="Typing SVG" /></a>
-</h1>
 
 
 ### 🤝🏻 &nbsp;Connect with Me
