@@ -59,9 +59,11 @@
 ![Azure](https://img.shields.io/badge/Azure-05122A?style=flat&logo=microsoftazure&logoColor=0078D4)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-05122A?style=flat&logo=githubcopilot)
 ![OpenAI](https://img.shields.io/badge/OpenAI-05122A?style=flat&logo=openai)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-05122A?style=flat&logo=googlecloud&logoColor=4285F4)
 
 ### Tools
 
+![Instana](https://img.shields.io/badge/Instana-05122A?style=flat&logo=ibm&logoColor=52C7EA)
 ![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-05122A?style=flat&logo=azuredevops)
