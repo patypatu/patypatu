@@ -24,40 +24,6 @@ Front-end Developer • 3+ Years of Experience • Angular • TypeScript • No
 
 ---
 
-## 🤝 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/patricia-saavedra-benavente/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:patr.saavedra.b@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://www.instagram.com/paturicia.s">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-  </a>
-
-  <a href="https://discord.com/users/690363809294188545">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
-  </a>
-</p>
-
----
-
-# 💻 About Me
-
-- 💼 Front-end Developer with **3+ years of professional experience** building enterprise web applications.
-- 🚀 Specialized in **Angular** and **TypeScript**, with experience developing **Backend For Frontend (BFF)** services using **Node.js**.
-- ☁️ Microsoft Certified: **Azure Fundamentals (AZ-900)**.
-- 🤖 **GitHub Copilot Certified**.
-- 💡 Passionate about creating scalable, maintainable and user-friendly applications.
-- 🌱 Always learning new technologies and improving my software development skills.
-- 📚 Outside of coding, I enjoy reading books, playing videogames and Japanese culture.
-
----
-
 # 💼 Experience
 
 ### Front-end Developer
@@ -116,29 +82,6 @@ Front-end Developer • 3+ Years of Experience • Angular • TypeScript • No
 - ✅ Microsoft Certified: Azure Fundamentals (AZ-900)
 
 ---
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=github-dark&hide_border=true" />
-</p>
-
----
-
-# ✨ Quote
-
-> *"Always learning, always building."*
-
-<hr>
 
 
 <hr>
