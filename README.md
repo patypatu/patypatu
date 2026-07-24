@@ -25,17 +25,6 @@
 
 ---
 
-# 💼 Experience
-
-### Front-end Developer
-**2023 – Present**
-
-- Develop and maintain enterprise web applications using **Angular** and **TypeScript**.
-- Develop **Backend For Frontend (BFF)** services with **Node.js**.
-- Collaborate with developers, QA engineers and UX/UI designers in Agile teams.
-- Work daily with Git, GitHub, Azure DevOps, Postman, Visual Studio Code and GitHub Copilot.
-
----
 
 # 🚀 Tech Stack
 
